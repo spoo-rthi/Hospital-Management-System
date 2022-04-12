@@ -1,4 +1,4 @@
-This project is taken by <a href="https://github.com/kishan0725/Hospital-Management-System"> Kishan Lal</a>
+This project is taken from <a href="https://github.com/kishan0725/Hospital-Management-System"> Kishan Lal</a>
 
 # Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap

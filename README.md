@@ -1,4 +1,4 @@
-This project is taken from <a href="https://github.com/kishan0725/Hospital-Management-System"> Kishan Lal</a>
+This project is taken from <a href="https://github.com/kishan0725/Hospital-Management-System"> Kishan Lal</a>\n
 Stored Procedures and Triggers are the additional features which are added to in this project.
 
 # Hospital Management System
